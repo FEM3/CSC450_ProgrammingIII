@@ -1,1 +1,1 @@
-Module 1 Critical Thinking Assignment
+Critical Thinking Assignments for CSC450
